@@ -1,3 +1,3 @@
 # emretokgoz.github.io
 
-emretokgoz.github.io
+https://emretokgoz.github.io

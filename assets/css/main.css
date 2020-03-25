@@ -956,26 +956,9 @@
 				width: 100%;
 			}
 
-<<<<<<< HEAD
 				#main .avatar:before {
 					left: -2em;
 					width: calc(100% + 4em);
-=======
-				#header nav ul li:first-child {
-					border-left: 0;
-				}
-
-				#header nav ul li a {
-					display: block;
-					min-width: 7.5rem;
-					height: 2.75rem;
-					line-height: 2.75rem;
-					padding: 0 1.25rem 0 1.45rem;
-					text-transform: uppercase;
-					letter-spacing: 0.2rem;
-					font-size: 0.8rem;
-					border-bottom: 0;
->>>>>>> parent of ba8cacc... Update
 				}
 
 		}
